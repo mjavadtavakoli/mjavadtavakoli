@@ -17,8 +17,8 @@ I'm a dedicated backend developer and a tech enthusiast, passionate about design
 - **Testing**: ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=java&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 
 ## 🌐 Connect with Me
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [GitHub](https://github.com/mjavadtavakoli)
+- [LinkedIn](https://www.linkedin.com/in/mohamad-javad-tavakoli)
 - [Twitter](https://twitter.com/yourusername)
 
 ---
