@@ -14,7 +14,7 @@ I'm a dedicated backend developer and a tech enthusiast, passionate about design
 ## 🛠️ Tools & Technologies
 - **Containers**: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 - **CI/CD**: ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-- **Testing**: ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=java&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+- **Testing**:  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 
 ## 🌐 Connect with Me
 - [GitHub](https://github.com/mjavadtavakoli)
