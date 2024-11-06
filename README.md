@@ -18,7 +18,7 @@ I'm a dedicated backend developer and a tech enthusiast, passionate about design
 
 ## 🌐 Connect with Me
 - [GitHub](https://github.com/mjavadtavakoli)
-- [LinkedIn](https://www.linkedin.com/in/mohamad-javad-tavakoli)
+- [LinkedIn](https://www.linkedin.com/in/mohamadjavadtavakoli-quality-assurance)
 - [Twitter](https://twitter.com/yourusername)
 
 ---
