@@ -13,6 +13,6 @@
 
 <p align="center" style='margin: 16px 4px 8px;'>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=utkarshpathrabe&no-bg=true&no-frame=true" alt="github profile stats" />
+        <img src="no-bg=true&no-frame=true" alt="github profile stats" />
     </a>
 </p>
