@@ -9,10 +9,8 @@
 
  [![Robot](https://img.shields.io/badge/Robot-00ADD8?style=flat&logo=robot&logoColor=white)](https://sites.google.com/view/tavakoli/home) [![Go Reference](https://pkg.go.dev/badge/golang.org/x/debug.svg)](https://pkg.go.dev/golang.org/x/debug)<img src="https://github.com/mjavadtavakoli/library_manager/blob/main/gopher.svg" width="30"/>
 
-
-
 <p align="center" style='margin: 16px 4px 8px;'>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="no-bg=true&no-frame=true" alt="github profile stats" />
+        <img src="https://github-profile-trophy.vercel.app/?username=utkarshpathrabe&no-frame=true" alt="github profile stats" />
     </a>
 </p>
