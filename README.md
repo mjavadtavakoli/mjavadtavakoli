@@ -12,4 +12,4 @@
  [![Go Reference](https://pkg.go.dev/badge/golang.org/x/debug.svg)](https://pkg.go.dev/golang.org/x/debug) 
 
  
- <img src="https://github.com/mjavadtavakoli/library_manager/blob/main/gopher.svg" width="130"/>
+ <img src="https://github.com/mjavadtavakoli/library_manager/blob/main/gopher.svg" width="100"/>
