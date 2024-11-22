@@ -22,6 +22,10 @@
 
 
 
+<p align="center" style='margin: 8px 4px;'>
+    <img src="./assets/sunrise.jpeg?sanitize=true" alt="utkarshpathrabe" />
+</p>
+
 
 
 
