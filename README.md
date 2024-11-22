@@ -44,4 +44,4 @@
 
 
 
-<img src="[https://i.imgur.com/HSMD1is.mp4](https://imgur.com/gallery/5P8JgbL)" alt="QA Hero" width="600">
+<img src="[[https://i.imgur.com/HSMD1is.mp4](https://imgur.com/gallery/5P8JgbL)](https://i.imgur.com/tVUW5cF.png)" alt="QA Hero" width="600">
