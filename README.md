@@ -41,5 +41,7 @@
     <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/output/github-contribution-grid-snake-dark.svg" alt="utkarsh pathrabe stats snake" />
 </p>
 
-## پایان‌بخش جذاب
-![QA Hero](QA_hero_image.png)
+
+
+
+<img src="https://i.imgur.com/HSMD1is.mp4" alt="QA Hero" width="600">
