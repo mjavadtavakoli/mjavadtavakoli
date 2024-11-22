@@ -27,15 +27,15 @@
 
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshpathrabe&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="mjavadtavakoli" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mjavadtavakoli&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="mjavadtavakoli" />
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api?username=utkarshpathrabe&show_icons=true&locale=en&theme=gruvbox" alt="mjavadtavakoli" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mjavadtavakoli&show_icons=true&locale=en&theme=gruvbox" alt="mjavadtavakoli" />
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshpathrabe&theme=gruvbox" alt="mjavadtavakoli" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjavadtavakoli&theme=gruvbox" alt="mjavadtavakoli" />
 </p>
 
 
