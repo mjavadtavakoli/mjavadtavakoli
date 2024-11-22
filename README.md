@@ -21,12 +21,11 @@
 
 
 
+![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="./assets/sunrise.jpeg?sanitize=true" alt="utkarshpathrabe" />
+    <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/output/github-contribution-grid-snake-dark.svg" alt="utkarsh pathrabe stats snake" />
 </p>
-
-
 
 
 
