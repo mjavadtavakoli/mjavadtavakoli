@@ -12,20 +12,11 @@
     </a>
 </p>
 
-<p align="center" style='margin: 8px 4px;'>
-    <img src="./assets/sunrise.jpeg?sanitize=true" alt="utkarshpathrabe" />
-</p>
-
 
 
         
 
 
-
-
-
-
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg?sanitize=true)
 
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/output/github-contribution-grid-snake-dark.svg" alt="utkarsh pathrabe stats snake" />
@@ -38,5 +29,3 @@
 
 
 
-
- [![Robot](https://img.shields.io/badge/Robot-00ADD8?style=flat&logo=robot&logoColor=white)](https://sites.google.com/view/tavakoli/home) [![Go Reference](https://pkg.go.dev/badge/golang.org/x/debug.svg)](https://pkg.go.dev/golang.org/x/debug)<img src="https://github.com/mjavadtavakoli/library_manager/blob/main/gopher.svg" width="30"/>
