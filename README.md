@@ -34,8 +34,7 @@
 </p>
 
 
-
-<img src="https://github.com/mjavadtavakoli/library_manager/blob/main/gopher.svg" width="230"/>
+- - - -  -   -    - -    -   -  - <img src="https://github.com/mjavadtavakoli/library_manager/blob/main/gopher.svg" width="230"/>
 
 
 
