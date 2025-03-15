@@ -53,5 +53,3 @@
 </div>
 
 
-
-[![asciicast](https://asciinema.org/a/231021.svg)](https://asciinema.org/a/231021)
