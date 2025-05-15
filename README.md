@@ -54,5 +54,7 @@
   <img src="https://raw.githubusercontent.com/Long18/Long18/refs/heads/dev/assets/footers/cat_on_line.svg?sanitize=true" alt="Footer Image" />
 </div>
 
-
-<img src="octocat.gif" alt="octocat" width="50" />
+</div>
+<div align="center">
+ <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=EchoSingh&theme=tokyonight-duo&hide_border=true&border_radius=2" alt="streak">
+</div>
