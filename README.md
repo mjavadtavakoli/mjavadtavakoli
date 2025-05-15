@@ -42,7 +42,5 @@
 </p>
 
 
-<img src="https://i.imgur.com/tVUW5cF.png" alt="QA Hero" width="600">
-</div>
 
  
