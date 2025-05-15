@@ -4,6 +4,7 @@
 
 
 
+
 </div>
 <div align="center">
  <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=EchoSingh&theme=tokyonight-duo&hide_border=true&border_radius=2" alt="streak">
@@ -11,7 +12,9 @@
 
 
 
-<p align="center" style='margin: 10px 1px 3px;'>
+
+
+<p align="center" style='margin: 16px 4px 8px;'>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=mjavadtavakoli&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
     </a>
