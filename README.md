@@ -11,7 +11,7 @@
 
 
 
-<p align="center" style='margin: 13px 3px 5px;'>
+<p align="center" style='margin: 10px 1px 3px;'>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=mjavadtavakoli&theme=gruvbox&column=7&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
     </a>
