@@ -48,8 +48,3 @@
 </div>
 
 
-<div align="center">
-<img src="https://github.com/mjavadtavakoli/library_manager/blob/main/gopher.svg" width="230"/>
-</div>
-
-
