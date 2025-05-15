@@ -55,6 +55,4 @@
 </div>
 
 
-
-
-![GitHub Contribution Snake](https://github.com/EchoSingh/EchoSingh/blob/output/snake-cool.svg)
+<img src="octocat.gif" alt="octocat" width="50" />
