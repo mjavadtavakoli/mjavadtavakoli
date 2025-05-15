@@ -41,7 +41,8 @@
     <img src="https://github.com/UtkarshPathrabe/UtkarshPathrabe/blob/output/github-contribution-grid-snake-dark.svg" alt="utkarsh pathrabe stats snake" />
 </p>
 
-
-<div align="center">
-  <img src="https://github.com/mjavadtavakoli/mjavadtavakoli/photo_1404-02-25 21.51.22.jpeg" width="230"/>
+div align="center">
+<img src="https://i.imgur.com/tVUW5cF.png" alt="QA Hero" width="600">
 </div>
+<div align="center">
+  <img src="https://github.com/mjavaddev/mjavaddev/blob/main/assets/gopher.jpg?raw=true" width="230"/>
