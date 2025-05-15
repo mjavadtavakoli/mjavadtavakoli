@@ -46,10 +46,6 @@
 <div align="center">
 <img src="https://i.imgur.com/tVUW5cF.png" alt="QA Hero" width="600">
 </div>
-
-
 <div align="center">
-<img src="https://github.com/mjavadtavakoli/library_manager/blob/main/gopher.svg" width="230"/>
+  <img src="https://github.com/mjavaddev/mjavaddev/blob/main/assets/gopher.jpg?raw=true" width="230"/>
 </div>
-
-
