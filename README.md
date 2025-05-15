@@ -51,12 +51,7 @@
 //test
 
 
-
-<p>
-                      <img src="https://raw.githubusercontent.com/Long18/Long18/refs/heads/dev/assets/footers/cat_on_line.svg?raw=true" alt="Footer Image" />
-</p>
-
-
-<p>
-                      <img src="https://raw.githubusercontent.com/Long18/Long18/refs/heads/dev/assets/footers/cat_on_line.svg?sanitize=true" alt="Footer Image" />
-</p>
+<div align="center">
+ 
+  <img src="https://raw.githubusercontent.com/Long18/Long18/refs/heads/dev/assets/footers/cat_on_line.svg?sanitize=true" alt="Footer Image" />
+</div>
