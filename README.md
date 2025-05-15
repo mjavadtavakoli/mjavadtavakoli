@@ -42,5 +42,6 @@
 </p>
 
 
-
- 
+<div align="center">
+  <img src="https://github.com/mjavadtavakoli/mjavadtavakoli/blob/main/photo_1404-02-25%2021.51.22.jpeg?raw=true" width="230"/>
+</div>
