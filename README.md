@@ -43,5 +43,5 @@
 
 
 <div align="center">
-  <img src="https://github.com/mjavadtavakoli/mjavadtavakoli/blob/main/assets/gogetter.jpg?raw=true" width="230"/>
+  <img src="https://github.com/mjavadtavakoli/mjavadtavakoli/photo_1404-02-25 21.51.22.jpeg" width="230"/>
 </div>
