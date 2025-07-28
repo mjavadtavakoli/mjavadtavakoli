@@ -22,20 +22,17 @@
 
 
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=mjavadtavakoli&show_icons=true&theme=radical&line_height=40">
-  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mjavadtavakoli&theme=radical">
-</p>
-        
-
-
-
-
 
 
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mjavadtavakoli&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="mjavadtavakoli" />
 </p>
+
+
+
+
+
+
 
 <p align="center" style='margin: 8px 4px;'>
     <img src="https://github-readme-stats.vercel.app/api?username=mjavadtavakoli&show_icons=true&locale=en&theme=gruvbox" alt="mjavadtavakoli" />
@@ -46,6 +43,10 @@
 </p>
 
 
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=mjavadtavakoli&show_icons=true&theme=radical&line_height=40">
+  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mjavadtavakoli&theme=radical">
+</p>
 
 
 
@@ -73,8 +74,3 @@
 <a href="https://www.linkedin.com/in/mohammad-javad-tavakoli-3893a42b0/"><img src="https://img.shields.io/badge/-Gogetters-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=mjavadtavakoli&show_icons=true&theme=radical&line_height=40">
-  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mjavadtavakoli&theme=radical">
-</p>
